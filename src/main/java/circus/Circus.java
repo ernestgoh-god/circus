@@ -5,8 +5,13 @@ import circus.equipment.Cannon;
 import circus.equipment.Ladder;
 
 import circus.animal.Tiger;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
 import circus.animal.Animal;
 import circus.animal.Duck;
+import circus.animal.Elephant;
 import circus.animal.Parrot;
 
 public class Circus {
